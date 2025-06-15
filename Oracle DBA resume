@@ -23,8 +23,7 @@ Study database related issues that could affect the database production infrastr
 Develop scripts to automate functions, processes and monitor database performance
 Database Administrator Requirements:
 
-BE/MCA any computer science related major
-Strong communication, coordination and interpersonal skills
+
 Strong Core Oracle Database knowledge (12c and 19c) including RAC/ASM
 Strong SQL, PL/SQL and shell /Perl scripting skills
 Basic knowledge on Oracle Fusion Middleware (e.g. WebLogic)
@@ -49,11 +48,7 @@ Oracle Database Architecture
 Installation, configuration and upgrading of Oracle server in a standalone or RAC Environment
 Implementing high availability solutions using Oracle Real Application Cluster
 Implementing DR solutions using Oracle Standby Database using Oracle Data Guard
-Start and Stop of Oracle Database Services
 Migrating schemas using traditional exp/imp and Oracle Datapump utilities.
-Cross platform migration
-Usage of Oracle RMAN
-Usage of Alert logs
 Familiar with Oracle CPU and PSU patching procedure.
 Generating and Analyzing Oracle AWR and ADDM Reports
 Monitor data backup process and perform data recovery if needs be.
@@ -61,13 +56,10 @@ Study database related issues that could affect the database production infrastr
 Develop scripts to automate functions, processes and monitor database performance
 Database Administrator Requirements:
 
-BE/MCA any computer science related major
-Strong communication, coordination and interpersonal skills
+
 Strong Core Oracle Database knowledge (12c and 19c) including RAC/ASM
-Strong SQL, PL/SQL and shell /Perl scripting skills
 Basic knowledge on Oracle Fusion Middleware (e.g. WebLogic)
 Basic knowledge of Cloud (OCI, AWS or AZURE)
 Knowledge on Enterprise Manager
 In-depth knowledge of Oracle database technologies and architecture
-Knowledge of best practices in database management.
-Exceptional organizational skills and attention to detail
+
