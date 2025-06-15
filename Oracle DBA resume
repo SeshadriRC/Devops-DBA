@@ -63,3 +63,8 @@ Basic knowledge of Cloud (OCI, AWS or AZURE)
 Knowledge on Enterprise Manager
 In-depth knowledge of Oracle database technologies and architecture
 
+Familiarity with AWS services (Aurora, RDS, EC2, S3, etc.) and cloud database management practices.
+Experience with query tuning tools such as pg_stat_statements and EXPLAIN for query analysis.
+Conceptual knowledge of Terraform
+Good understanding on DNS, TCP/IP protocols.
+Exposure to security concepts / best practices; Understanding on IPsec, VPN, Load Balancing, Iperf, MTR, Routing Protocols, SSH, Network
